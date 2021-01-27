@@ -1,0 +1,6 @@
+/apireqs/key_f.key
+/apireqs/crt_f.crt
+/apireqs/__pycache__
+/testvac/__pycache__
+db.sqlite3
+nohup.out
